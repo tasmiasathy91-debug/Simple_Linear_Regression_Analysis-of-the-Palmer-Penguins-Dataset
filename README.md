@@ -38,5 +38,13 @@ The dataset consists of the following variables:
 For this analysis:
 
 Independent Variable (X): Flipper Length (mm)
+
 Dependent Variable (Y): Body Mass (g)
+
+# Conclusion
+
+This project presents a reproducible workflow for applying simple linear regression to the Palmer Penguins dataset. The analysis includes data inspection, missing-value handling, exploratory visualization, model training, prediction, and evaluation using standard regression metrics.
+
+The project demonstrates how a single numerical feature can be used to construct an interpretable predictive model.
+Overall, this project provides a foundation for further study of regression analysis, feature selection, model diagnostics, and predictive modeling in Python.
 
