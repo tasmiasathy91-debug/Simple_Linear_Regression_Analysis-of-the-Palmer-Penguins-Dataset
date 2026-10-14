@@ -1,6 +1,8 @@
 Simple_Linear_Regression_Analysis-of-the-Palmer-Penguins-Dataset
 
-# Project title: Simple Linear Regression Analysis of the Palmer Penguins Dataset
+# Project title: 
+
+Simple Linear Regression Analysis of the Palmer Penguins Dataset
 
 # Project overview
 
