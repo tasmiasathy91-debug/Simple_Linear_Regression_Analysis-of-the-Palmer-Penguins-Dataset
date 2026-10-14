@@ -20,3 +20,23 @@ The analysis was conducted in Python using the following libraries:
 - Seaborn: Statistical visualization and dataset loading.
 
 - scikit-learn: Data splitting, model training, prediction, and evaluation.
+
+# Dataset Description
+
+The Palmer Penguins dataset contains biological measurements collected from penguin populations in Antarctica. 
+
+The dataset includes observations from three species:
+
+Adelie Penguin (Pygoscelis adeliae)
+Chinstrap Penguin (Pygoscelis antarcticus)
+Gentoo Penguin (Pygoscelis papua)
+
+The dataset consists of the following variables:
+
+<img width="742" height="347" alt="image" src="https://github.com/user-attachments/assets/6bcd3165-642d-4172-9372-355e5c884c95" />
+
+For this analysis:
+
+Independent Variable (X): Flipper Length (mm)
+Dependent Variable (Y): Body Mass (g)
+
