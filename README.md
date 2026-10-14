@@ -5,7 +5,9 @@
 
 Simple Linear Regression is a widely used statistical technique for examining relationships between continuous variables and making predictions. This study investigates the relationship between flipper length and body mass in penguins using the Palmer Penguins dataset. The primary objective is to determine whether flipper length can serve as a significant predictor of body mass. Data preprocessing, exploratory data analysis, model development, and diagnostic evaluations were conducted to assess the suitability and performance of the regression model. Results indicate a strong positive linear relationship between flipper length and body mass, with flipper length explaining a substantial proportion of the variability in body mass. These findings demonstrate the effectiveness of simple linear regression in modeling biological relationships and provide insights into penguin morphology.
 
-# Keywords: Simple Linear Regression, Palmer Penguins Dataset, Flipper Length, Body Mass, Predictive Modeling, Statistical Analysis
+# Keywords: 
+
+Simple Linear Regression, Palmer Penguins Dataset, Flipper Length, Body Mass, Predictive Modeling, Statistical Analysis
 
 # Software and Libraries
 
